@@ -23,3 +23,7 @@ Commit: gera uma versão local de todos os arquivos que foram adicionados/modifi
 
 Verificar a lista de versões que foram geradas (ou seja, o log de mundanças)
 	git log
+
+Comando para enviar para o respositório remoto, todas as alterações(commit) realizadas
+	git push
+
