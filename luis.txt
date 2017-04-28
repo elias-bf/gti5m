@@ -1,2 +1,2 @@
 Luis Miguel Nogueira de Resende
-Enviando para repositorio arquivo txt
+Enviando arquivo txt para um repositorio no GitHub 
