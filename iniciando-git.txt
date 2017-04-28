@@ -1,0 +1,12 @@
+Instalação do git no linux
+	sudo apt-get install openssl git-core
+
+Comando de clonagem
+	git clone enderecoDoProjeto
+	git clone https://github.com/elias-bf/gti5m.git
+
+Comando de listagem dos arquivos no repositório do git
+	git ls-files
+
+Comando para verificar o status dos arquivos que estão no repositório
+	git status
