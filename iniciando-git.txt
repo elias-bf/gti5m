@@ -10,3 +10,16 @@ Comando de listagem dos arquivos no repositório do git
 
 Comando para verificar o status dos arquivos que estão no repositório
 	git status
+
+Comando para adicionar os arquivos modificados para criação de uma versão
+	git add "nome do arquivo"
+
+É necessário configurar o nome e e-mail para o usuário local
+	git config user.email "seuemail"
+	git config user.name "seu nome"
+
+Commit: gera uma versão local de todos os arquivos que foram adicionados/modificado ao repositório 
+	git commit -m "comentário explicativos sobre as mudanças que foram realizadas"
+
+Verificar a lista de versões que foram geradas (ou seja, o log de mundanças)
+	git log
